@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisciampinir2thru3ciam_0029.png"; bbox 0 0 2461 3669; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1196 38 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1196 38 1946">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1196 38 1946; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 1196 38 1946; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2272 442 2301 585">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2272 442 2301 585">
+     <span class='ocr_line' id='line_1_2' title="bbox 2272 442 2301 585; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 2272 466 2301 585; x_wconf 54' lang='lat' dir='ltr'>Hffluffiffl-ssffl</span> <span class='ocrx_word' id='word_1_3' title='bbox 2294 442 2300 445; x_wconf 92' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2255 548 2300 620">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2255 548 2300 620">
+     <span class='ocr_line' id='line_1_3' title="bbox 2255 548 2300 620; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2255 548 2300 620; x_wconf 5' lang='grc' dir='ltr'>,εἰ-«β</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 76 2461 3381">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 76 2461 3381">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 76 2461 3381; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 0 76 2461 3381; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2263 3385 2379 3428">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2263 3385 2379 3428">
+     <span class='ocr_line' id='line_1_5' title="bbox 2263 3385 2379 3428; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 2263 3385 2379 3428; x_wconf 33' lang='lat' dir='ltr'>RQ*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

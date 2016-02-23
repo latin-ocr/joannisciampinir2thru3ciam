@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisciampinir2thru3ciam_0177.png"; bbox 0 0 2378 3674; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 805 2642 806 2660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 805 2642 806 2660">
+     <span class='ocr_line' id='line_1_1' title="bbox 805 2642 806 2660; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 805 2642 806 2660; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 835 834 859 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 835 834 859 1554">
+     <span class='ocr_line' id='line_1_2' title="bbox 835 834 859 1554; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 835 834 859 1554; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 666 532 1983 2764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 666 532 1983 2764">
+     <span class='ocr_line' id='line_1_3' title="bbox 666 532 1983 2764; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 666 532 1983 2764; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1008 502 1387 559">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1008 502 1387 559">
+     <span class='ocr_line' id='line_1_4' title="bbox 1008 502 1387 559; baseline -0.047 1"><span class='ocrx_word' id='word_1_4' title='bbox 1008 505 1268 559; x_wconf 57' lang='lat' dir='ltr'>SUWRENT</span> <span class='ocrx_word' id='word_1_5' title='bbox 1277 503 1327 547; x_wconf 68' lang='lat' dir='ltr'>IV</span> <span class='ocrx_word' id='word_1_6' title='bbox 1336 502 1361 546; x_wconf 69' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1380 533 1387 540; x_wconf 93' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1612 484 1859 537">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1612 484 1859 537">
+     <span class='ocr_line' id='line_1_5' title="bbox 1612 484 1859 537; baseline -0.049 1"><span class='ocrx_word' id='word_1_8' title='bbox 1612 484 1859 537; x_wconf 59' lang='lat' dir='ltr'>SPETRvs.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
